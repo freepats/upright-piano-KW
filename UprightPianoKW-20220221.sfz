@@ -1,0 +1,360 @@
+//+ Name: Upright Piano KW
+//+ Date: 2022-02-21
+//+ URL: http://freepats.zenvoid.org/Piano/acoustic-grand-piano.html#UprightKW
+
+<global>
+ //+ Instrument: Upright Piano KW
+ ampeg_release=0.6
+ width=100
+
+<group>
+ hivel=80
+ loop_mode=loop_continuous
+<region>
+ lokey=21 hikey=22
+ pitch_keycenter=21
+ loop_start=244730
+ loop_end=333808
+ sample=samples/A0vL.flac
+<region>
+ lokey=23 hikey=25
+ pitch_keycenter=24
+ loop_start=325127
+ loop_end=471187
+ sample=samples/C1vL.flac
+<region>
+ lokey=26 hikey=28
+ pitch_keycenter=27
+ loop_start=412198
+ loop_end=566248
+ sample=samples/D#1vL.flac
+<region>
+ lokey=29 hikey=31
+ pitch_keycenter=30
+ loop_start=335793
+ loop_end=486976
+ sample=samples/F#1vL.flac
+<region>
+ lokey=32 hikey=34
+ pitch_keycenter=33
+ loop_start=348550
+ loop_end=524031
+ sample=samples/A1vL.flac
+<region>
+ lokey=35 hikey=37
+ pitch_keycenter=36
+ loop_start=397535
+ loop_end=510386
+ sample=samples/C2vL.flac
+<region>
+ lokey=38 hikey=40
+ pitch_keycenter=39
+ loop_start=425067
+ loop_end=585179
+ sample=samples/D#2vL.flac
+<region>
+ lokey=41 hikey=43
+ pitch_keycenter=42
+ loop_start=327987
+ loop_end=438561
+ sample=samples/F#2vL.flac
+<region>
+ lokey=44 hikey=46
+ pitch_keycenter=45
+ loop_start=240292
+ loop_end=361157
+ sample=samples/A2vL.flac
+<region>
+ lokey=47 hikey=49
+ pitch_keycenter=48
+ loop_start=137735
+ loop_end=212674
+ fil_type=lpf_2p
+ cutoff=2500
+ sample=samples/C3vL.flac
+<region>
+ lokey=50 hikey=52
+ pitch_keycenter=51
+ loop_start=188513
+ loop_end=255624
+ fil_type=lpf_2p
+ cutoff=1500
+ sample=samples/D#3vL.flac
+<region>
+ lokey=53 hikey=55
+ pitch_keycenter=54
+ loop_start=134294
+ loop_end=213980
+ sample=samples/F#3vL.flac
+<region>
+ lokey=56 hikey=58
+ pitch_keycenter=57
+ loop_start=173690
+ loop_end=283676
+ sample=samples/A3vL.flac
+<region>
+ lokey=59 hikey=61
+ pitch_keycenter=60
+ loop_start=199374
+ loop_end=354248
+ fil_type=lpf_2p
+ cutoff=2200
+ sample=samples/C4vL.flac
+<region>
+ lokey=62 hikey=64
+ pitch_keycenter=63
+ loop_start=111422
+ loop_end=184757
+ sample=samples/D#4vL.flac
+<region>
+ lokey=65 hikey=67
+ pitch_keycenter=66
+ loop_start=151730
+ loop_end=255601
+ sample=samples/F#4vL.flac
+
+<group>
+ hivel=80
+ loop_mode=no_loop
+<region>
+ lokey=68 hikey=70
+ pitch_keycenter=69
+ sample=samples/A4vL.flac
+<region>
+ lokey=71 hikey=73
+ pitch_keycenter=72
+ sample=samples/C5vL.flac
+<region>
+ lokey=74 hikey=76
+ pitch_keycenter=75
+ sample=samples/D#5vL.flac
+<region>
+ lokey=77 hikey=79
+ pitch_keycenter=78
+ sample=samples/F#5vL.flac
+<region>
+ lokey=80 hikey=82
+ pitch_keycenter=81
+ sample=samples/A5vL.flac
+<region>
+ lokey=83 hikey=85
+ pitch_keycenter=84
+ sample=samples/C6vL.flac
+<region>
+ lokey=86 hikey=88
+ pitch_keycenter=87
+ sample=samples/D#6vL.flac
+<region>
+ lokey=89 hikey=91
+ pitch_keycenter=90
+ sample=samples/F#6vL.flac
+<region>
+ lokey=92 hikey=94
+ pitch_keycenter=93
+ sample=samples/A6vL.flac
+<region>
+ lokey=95 hikey=97
+ pitch_keycenter=96
+ sample=samples/C7vL.flac
+<region>
+ lokey=98 hikey=100
+ pitch_keycenter=99
+ sample=samples/D#7vL.flac
+<region>
+ lokey=101 hikey=103
+ pitch_keycenter=102
+ sample=samples/F#7vL.flac
+<region>
+ lokey=104 hikey=106
+ pitch_keycenter=105
+ sample=samples/A7vL.flac
+<region>
+ lokey=107 hikey=108
+ pitch_keycenter=108
+ sample=samples/C8vL.flac
+
+<group>
+ lovel=81
+ loop_mode=loop_continuous
+<region>
+ lokey=21 hikey=22
+ pitch_keycenter=21
+ loop_start=226952
+ loop_end=310216
+ sample=samples/A0vH.flac
+<region>
+ key=23
+ loop_start=238766
+ loop_end=332736
+ sample=samples/B0vH.flac
+<region>
+ lokey=24 hikey=25
+ pitch_keycenter=24
+ loop_start=306378
+ loop_end=424657
+ sample=samples/C1vH.flac
+<region>
+ lokey=26 hikey=28
+ pitch_keycenter=27
+ loop_start=345735
+ loop_end=461796
+ sample=samples/D#1vH.flac
+<region>
+ lokey=29 hikey=31
+ pitch_keycenter=30
+ loop_start=240705
+ loop_end=351556
+ sample=samples/F#1vH.flac
+<region>
+ lokey=32 hikey=33
+ pitch_keycenter=33
+ loop_start=332232
+ loop_end=442432
+ sample=samples/A1vH.flac
+<region>
+ lokey=34 hikey=35
+ pitch_keycenter=35
+ loop_start=256475
+ loop_end=366932
+ sample=samples/B1vH.flac
+<region>
+ lokey=36 hikey=37
+ pitch_keycenter=36
+ loop_start=256636
+ loop_end=376577
+ sample=samples/C2vH.flac
+<region>
+ lokey=38 hikey=40
+ pitch_keycenter=39
+ loop_start=288169
+ loop_end=398441
+ sample=samples/D#2vH.flac
+<region>
+ lokey=41 hikey=45
+ pitch_keycenter=42
+ loop_start=250236
+ loop_end=393511
+ sample=samples/F#2vH.flac
+<region>
+ lokey=46 hikey=47
+ pitch_keycenter=47
+ loop_start=238940
+ loop_end=341297
+ sample=samples/B2vH.flac
+<region>
+ lokey=48 hikey=49
+ pitch_keycenter=48
+ loop_start=196763
+ loop_end=307070
+ sample=samples/C3vH.flac
+<region>
+ lokey=50 hikey=52
+ pitch_keycenter=51
+ loop_start=162986
+ loop_end=240314
+ sample=samples/D#3vH.flac
+<region>
+ lokey=53 hikey=55
+ pitch_keycenter=54
+ loop_start=194343
+ loop_end=265634
+ sample=samples/F#3vH.flac
+<region>
+ lokey=56 hikey=57
+ pitch_keycenter=57
+ loop_start=120679
+ loop_end=186801
+ sample=samples/A3vH.flac
+<region>
+ lokey=58 hikey=61
+ pitch_keycenter=59
+ loop_start=163021
+ loop_end=227577
+ sample=samples/B3vH.flac
+<region>
+ lokey=62 hikey=64
+ pitch_keycenter=63
+ loop_start=151896
+ loop_end=217597
+ sample=samples/D#4vH.flac
+<region>
+ lokey=65 hikey=67
+ pitch_keycenter=66
+ loop_start=138527
+ loop_end=185330
+ sample=samples/F#4vH.flac
+
+<group>
+ lovel=81
+ loop_mode=no_loop
+<region>
+ lokey=68 hikey=69
+ pitch_keycenter=69
+ sample=samples/A4vH.flac
+<region>
+ lokey=70 hikey=71
+ pitch_keycenter=71
+ sample=samples/B4vH.flac
+<region>
+ lokey=72 hikey=73
+ pitch_keycenter=72
+ sample=samples/C5vH.flac
+<region>
+ lokey=74 hikey=76
+ pitch_keycenter=75
+ sample=samples/D#5vH.flac
+<region>
+ lokey=77 hikey=79
+ pitch_keycenter=78
+ sample=samples/F#5vH.flac
+<region>
+ lokey=80 hikey=81
+ pitch_keycenter=81
+ sample=samples/A5vH.flac
+<region>
+ lokey=82 hikey=83
+ pitch_keycenter=83
+ sample=samples/B5vH.flac
+<region>
+ lokey=84 hikey=85
+ pitch_keycenter=84
+ sample=samples/C6vH.flac
+<region>
+ lokey=86 hikey=88
+ pitch_keycenter=87
+ sample=samples/D#6vH.flac
+<region>
+ lokey=89 hikey=91
+ pitch_keycenter=90
+ sample=samples/F#6vH.flac
+<region>
+ lokey=92 hikey=93
+ pitch_keycenter=93
+ sample=samples/A6vH.flac
+<region>
+ lokey=94 hikey=95
+ pitch_keycenter=95
+ sample=samples/B6vH.flac
+<region>
+ lokey=96 hikey=97
+ pitch_keycenter=96
+ sample=samples/C7vH.flac
+<region>
+ lokey=98 hikey=100
+ pitch_keycenter=99
+ sample=samples/D#7vH.flac
+<region>
+ lokey=101 hikey=103
+ pitch_keycenter=102
+ sample=samples/F#7vH.flac
+<region>
+ lokey=104 hikey=105
+ pitch_keycenter=105
+ sample=samples/A7vH.flac
+<region>
+ lokey=106 hikey=107
+ pitch_keycenter=107
+ sample=samples/B7vH.flac
+<region>
+ key=108
+ sample=samples/C8vH.flac
