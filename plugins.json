@@ -1,0 +1,41 @@
+{
+  "plugins": [
+    {
+      "author": "Freepats",
+      "homepage": "https://freepats.zenvoid.org",
+      "name": "Upright Piano KW",
+      "description": "Kawai upright piano, recorded in a living room using a Zoom H1 portable recorder mounted on a tripod in front of the piano.",
+      "tags": [
+        "Instrument",
+        "Keys",
+        "Piano",
+        "sfz"
+      ],
+      "version": "1.0.0",
+      "id": "upright-piano-kw",
+      "date": "2022-02-21T07:00:00.000Z",
+      "files": {
+        "audio": {
+          "name": "upright-piano-kw.flac",
+          "size": 64803
+        },
+        "image": {
+          "name": "upright-piano-kw.jpg",
+          "size": 87924
+        },
+        "linux": {
+          "name": "upright-piano-kw.zip",
+          "size": 32365885
+        },
+        "mac": {
+          "name": "upright-piano-kw.zip",
+          "size": 32365885
+        },
+        "win": {
+          "name": "upright-piano-kw.zip",
+          "size": 32365885
+        }
+      }
+    }
+  ]
+}
