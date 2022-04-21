@@ -1,0 +1,19 @@
+name: Test
+
+on:
+  push:
+
+jobs:
+  test_code:
+    name: Test code
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install
+        run: |
+          pip install git+git://github.com/jisaacstone/sfzlint.git
+      - name: Lint
+        run: |
+          sfzlint .
