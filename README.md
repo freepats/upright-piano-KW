@@ -1,5 +1,4 @@
-Upright piano KW
-----------------
+# Upright piano KW
 
 Version 2022-02-21
 
