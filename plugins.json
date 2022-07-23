@@ -16,23 +16,23 @@
       "date": "2022-02-21T07:00:00.000Z",
       "files": {
         "audio": {
-          "name": "upright-piano-kw.flac",
+          "name": "UprightPianoKW-20220221.flac",
           "size": 64803
         },
         "image": {
-          "name": "upright-piano-kw.jpg",
+          "name": "UprightPianoKW-20220221.jpg",
           "size": 87924
         },
         "linux": {
-          "name": "upright-piano-kw.zip",
+          "name": "UprightPianoKW-20220221.zip",
           "size": 32365885
         },
         "mac": {
-          "name": "upright-piano-kw.zip",
+          "name": "UprightPianoKW-20220221.zip",
           "size": 32365885
         },
         "win": {
-          "name": "upright-piano-kw.zip",
+          "name": "UprightPianoKW-20220221.zip",
           "size": 32365885
         }
       }
