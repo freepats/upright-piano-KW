@@ -1,0 +1,1935 @@
+elements:
+  - type: element
+    name: global
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: ampeg_release
+          value: '0.6'
+      - type: element
+        name: opcode
+        attributes:
+          name: width
+          value: '100'
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '21'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '22'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '21'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '244730'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '333808'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A0vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '23'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '25'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '325127'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '471187'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C1vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '28'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '412198'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '566248'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/D#1vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '29'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '31'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '30'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '335793'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '486976'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/F#1vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '32'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '34'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '33'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '348550'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '524031'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A1vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '35'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '397535'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '510386'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C2vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '425067'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '585179'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/D#2vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '43'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '327987'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '438561'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/F#2vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '44'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '46'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '240292'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '361157'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A2vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '49'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '137735'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '212674'
+      - type: element
+        name: opcode
+        attributes:
+          name: fil_type
+          value: lpf_2p
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff
+          value: '2500'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C3vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '188513'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '255624'
+      - type: element
+        name: opcode
+        attributes:
+          name: fil_type
+          value: lpf_2p
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff
+          value: '1500'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/D#3vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '134294'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '213980'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/F#3vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '173690'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '283676'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A3vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '60'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '199374'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '354248'
+      - type: element
+        name: opcode
+        attributes:
+          name: fil_type
+          value: lpf_2p
+      - type: element
+        name: opcode
+        attributes:
+          name: cutoff
+          value: '2200'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C4vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '111422'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '184757'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/D#4vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '151730'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '255601'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/F#4vL.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: hivel
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: no_loop
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A4vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C5vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/D#5vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/F#5vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '82'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A5vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C6vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '87'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/D#6vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '89'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '91'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '90'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/F#6vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '94'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A6vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '97'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C7vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '98'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '99'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/D#7vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '101'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/F#7vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '106'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '105'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A7vL.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '107'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '108'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '108'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C8vL.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: loop_continuous
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '21'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '22'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '21'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '226952'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '310216'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A0vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '23'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '238766'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '332736'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/B0vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '25'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '24'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '306378'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '424657'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C1vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '26'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '28'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '27'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '345735'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '461796'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/D#1vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '29'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '31'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '30'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '240705'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '351556'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/F#1vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '32'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '33'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '33'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '332232'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '442432'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A1vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '34'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '35'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '35'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '256475'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '366932'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/B1vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '37'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '36'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '256636'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '376577'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C2vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '38'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '40'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '39'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '288169'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '398441'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/D#2vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '41'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '45'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '42'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '250236'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '393511'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/F#2vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '46'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '47'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '238940'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '341297'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/B2vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '49'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '48'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '196763'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '307070'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C3vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '50'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '52'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '51'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '162986'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '240314'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/D#3vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '53'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '55'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '54'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '194343'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '265634'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/F#3vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '56'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '57'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '120679'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '186801'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A3vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '58'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '61'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '59'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '163021'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '227577'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/B3vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '62'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '64'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '63'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '151896'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '217597'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/D#4vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '65'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '67'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '66'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_start
+          value: '138527'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_end
+          value: '185330'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/F#4vH.ogg
+  - type: element
+    name: group
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lovel
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: loop_mode
+          value: no_loop
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '68'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '69'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A4vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '70'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '71'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/B4vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '73'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '72'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C5vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '74'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '76'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '75'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/D#5vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '77'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '79'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '78'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/F#5vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '80'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '81'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A5vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '82'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '83'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/B5vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '85'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '84'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C6vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '86'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '88'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '87'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/D#6vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '89'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '91'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '90'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/F#6vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '92'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '93'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A6vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '94'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '95'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/B6vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '97'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '96'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C7vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '98'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '100'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '99'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/D#7vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '101'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '103'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '102'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/F#7vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '104'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '105'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '105'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/A7vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: lokey
+          value: '106'
+      - type: element
+        name: opcode
+        attributes:
+          name: hikey
+          value: '107'
+      - type: element
+        name: opcode
+        attributes:
+          name: pitch_keycenter
+          value: '107'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/B7vH.ogg
+  - type: element
+    name: region
+    elements:
+      - type: element
+        name: opcode
+        attributes:
+          name: key
+          value: '108'
+      - type: element
+        name: opcode
+        attributes:
+          name: sample
+          value: samples/C8vH.ogg
+
